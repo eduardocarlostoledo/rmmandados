@@ -52,7 +52,7 @@ export default function Footer() {
         </div>
 
         <div className="mt-10 pt-8 border-t border-white/10 text-center text-sm">
-          <p>&copy; {currentYear} RM Mandados. Todos los derechos reservados.</p>
+          <p>&copy; {currentYear} RM Mandados. Todos los derechos reservados. www.toledoconsultora.com </p>
         </div>
       </div>
     </footer>
