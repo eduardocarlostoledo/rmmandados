@@ -3,7 +3,7 @@ import { motion } from 'framer-motion'
 export default function WhatsAppButton() {
   return (
     <motion.a
-      href="https://wa.me/543764898906?text=Hola%2C%20quiero%20hacer%20un%20mandado"
+      href="https://wa.me/5493765380702?text=Hola%2C%20quiero%20hacer%20un%20mandado"
       target="_blank"
       rel="noopener noreferrer"
       className="fixed bottom-6 right-6 z-50 bg-whatsapp hover:bg-whatsapp/85 text-white w-16 h-16 rounded-full shadow-2xl flex items-center justify-center transition-colors duration-300"

@@ -33,7 +33,7 @@ export default function Navbar() {
               </a>
             ))}
             <a
-              href="https://wa.me/543764898906?text=Hola%2C%20quiero%20hacer%20un%20mandado"
+              href="https://wa.me/5493765380702?text=Hola%2C%20quiero%20hacer%20un%20mandado"
               target="_blank"
               rel="noopener noreferrer"
               className="ml-3 bg-secondary hover:bg-secondary/80 text-white px-4 py-2 rounded-lg text-sm font-semibold transition-colors duration-200"
@@ -78,7 +78,7 @@ export default function Navbar() {
                 </a>
               ))}
               <a
-                href="https://wa.me/543764898906?text=Hola%2C%20quiero%20hacer%20un%20mandado"
+                href="https://wa.me/5493765380702?text=Hola%2C%20quiero%20hacer%20un%20mandado"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="block bg-secondary hover:bg-secondary/80 text-white text-center px-4 py-2 rounded-lg font-semibold mt-2 transition-colors"

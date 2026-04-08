@@ -30,7 +30,7 @@ export default function WorkWithUs() {
               </ul>
 
               <a
-                href="https://wa.me/543764898906?text=Hola%2C%20quiero%20postularme%20como%20cadete"
+                href="https://wa.me/5493765380702?text=Hola%2C%20quiero%20postularme%20como%20cadete"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="mt-10 inline-flex items-center gap-2 bg-secondary hover:bg-secondary/85 text-white px-8 py-4 rounded-xl text-lg font-bold shadow-lg hover:shadow-xl transition-all duration-300 hover:-translate-y-0.5"

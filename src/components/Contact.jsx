@@ -26,8 +26,8 @@ export default function Contact() {
                 </svg>
               </div>
               <h3 className="text-lg font-bold text-primary mb-2">Telefono / WhatsApp</h3>
-              <a href="tel:+543764898906" className="text-gray-600 hover:text-secondary transition-colors text-lg">
-                3764 89-8906
+              <a href="tel:+5493765380702" className="text-gray-600 hover:text-secondary transition-colors text-lg">
+                3765 38-0702
               </a>
             </div>
           </FramerWrapper>

@@ -45,7 +45,7 @@ export default function Hero() {
           className="mt-10 flex flex-col sm:flex-row gap-4 justify-center"
         >
           <a
-            href="https://wa.me/543764898906?text=Hola%2C%20quiero%20hacer%20un%20mandado"
+            href="https://wa.me/5493765380702?text=Hola%2C%20quiero%20hacer%20un%20mandado"
             target="_blank"
             rel="noopener noreferrer"
             className="inline-flex items-center justify-center gap-2 bg-whatsapp hover:bg-whatsapp/85 text-white px-8 py-4 rounded-xl text-lg font-bold shadow-lg hover:shadow-xl transition-all duration-300 hover:-translate-y-0.5"
